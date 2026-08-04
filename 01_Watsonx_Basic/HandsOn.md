@@ -310,9 +310,12 @@ Output:
 ```
 ![자유형식 프롬프트](./img/freeform_prompt2.png)
 
+
 ## 프롬프트 저장하기
 
-![save prompt](./img/save_prompt.png)
+이전 단계에서 구조화된 프롬프트를 기반으로 개발한 고객 문의 자동 분류 챗봇 프롬프트를 저장해 보겠습니다.
+
+![save prompt](./img/save_prompt1.png)
 
 - 우측 상단 저장되지 않음의 오른쪽 **파일 모양** 클릭
 - **다른 이름으로 저장** 클릭
@@ -320,15 +323,78 @@ Output:
 ![save prompt](./img/save_prompt2.png)
 
 - 화면 좌측 **프롬프트 템플리트** 클릭
-- 이름과 
+- **이름**과 **설명**을 입력합니다.
 - 프로젝트 작성 화면에서 아래 규칙에 따라 이름과 설명을 작성합니다.
   - 다수의 인원이 한 자원을 사용하므로 반드시 명명규칙을 지켜 주시기 바랍니다.
-  - 명명규칙 : <자기이름>_base_template
+  - 명명규칙 : <자기이름>_고객문의분류챗봇
 - 이름(에시) 
   ```
-  Junho_base_template
+  Junho_고객문의분류챗봇
   ```
 - 설명
   ```
-  Watsonx.ai studio Prompt Lab 실습을 위한 프로젝트입니다.
+  고객 문의 자동 분류 및 챗봇 실습을 위한 프롬프트 입니다.
   ```
+
+
+![save prompt](./img/save_prompt3.png)
+
+- 이름과 설명 입력 후, 테스크는 **Classification**으로 선택합니다.
+- 설정이 모두 완료되었다면 우측 하단 **저장**을 클릭합니다.
+
+## Prompt Lab과 Python 연동하기
+
+- Watsonx.ai studio Prompt Lab에서는 **코드 보기** 기능을 통해 로컬에서 바로 실행할 수 있도록 Python, Curl, Node.js 코드를 제공합니다.
+
+![on python](./img/on_python1.png)
+
+- 화면 우측 상단 **</>** 버튼을 클릭하면 화면 우측에 코드 창이 활성화됩니다.
+
+![on python](./img/on_python2.png)
+
+- 화면에서 **펼치기** 버튼을 클릭합니다.
+
+![on python](./img/on_python3.png)
+
+- 코드 창에서 언어를 원하는 언어로 **Python**, **Curl**, **Node.js** 중 선택할 수 있습니다.
+- **Python**을 클릭해 전체 코드를 확인합니다.
+
+```
+Python 코드 구조
+
+1. body : 지사사항, 예시, 파라미터 설정, 모델ID, 프로젝트 ID
+
+2. header : 인증정보
+```
+
+![on python](./img/on_python4.png)
+
+- 코드 보기 하단 문구를 살펴보면 **개인 API 키를 작성** 이라는 문구가 있습니다.
+- Prompt Lab을 이용하기 위해서는 개인 인증을 위한 **ACCESS TOKEN**이 필요합니다. 
+- **ACCESS TOKEN**을 발급받기 위해 **개인 API 키를 작성**을 클릭합니다.
+
+![on python](./img/on_python5.png)
+
+- 우측 **작성** 버튼을 클릭합니다.
+
+![on python](./img/on_python6.png)
+
+- **이름**을 입력합니다.
+- 모든 설정을 그대로 두고 우측 하단 **작성** 버튼을 클릭합니다.
+
+![on python](./img/on_python7.png)
+
+![on python](./img/on_python8.png)
+
+- 생성된 API Key를 **복사** 버튼을 클릭해 복사합니다. (.env 파일에서 사용됩니다.)
+- <mark style = "background-color: yellow; border-radius: 3px"><b>이 키는 생성할 때 딱 한 번만 확인할 수 있기에 반드시 잘 복사해 기록해두어야 합니다.</b></mark>
+- API KEY 발급 후 창을 닫지 않고 그대로 두고, 다시 prompt lab 화면으로 돌아갑니다.
+
+![on python](./img/on_python9.png)
+
+- **copy 아이콘**을 클릭합니다.
+
+이 단계까지 완료했다면 Python 코드로 Prompt Lab을 사용할 준비가 완료되었습니다.
+아래 링크를 클릭해 Prompt Lab을 Python으로 실행해 보세요.
+
+[Python Prompt Lab](./HandsOn.ipynb)
