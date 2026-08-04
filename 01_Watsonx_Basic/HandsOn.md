@@ -101,7 +101,7 @@
 - 자산 목록 중 **기본 모델을 사용한 대화 및 빌트 프롬프트**를 클릭합니다.
 - 만약 목록에 나타나지 않는다면 상단 검색창에 Prompt Lab을 검색 후, 선택합니다.
 
-## Prompt Lab
+## 3. Prompt Lab
 
 **Prompt Lab이란?**
 ```
@@ -199,7 +199,7 @@
     - LLM과 사용자의 과거 로그
 ```
 
-## Prompt Lab 실습
+## 4. Prompt Lab 실습
 
 ### 대화형 프롬프트
 
@@ -325,7 +325,7 @@ Output:
 ![자유형식 프롬프트](./img/freeform_prompt2.png)
 
 
-## 프롬프트 저장하기
+## 5. 프롬프트 저장하기
 
 이전 단계에서 구조화된 프롬프트를 기반으로 개발한 고객 문의 자동 분류 챗봇 프롬프트를 저장해 보겠습니다.
 
@@ -356,7 +356,7 @@ Output:
 - 이름과 설명 입력 후, 테스크는 **Classification**으로 선택합니다.
 - 설정이 모두 완료되었다면 우측 하단 **저장**을 클릭합니다.
 
-## Prompt Lab과 Python 연동하기
+## 6. Prompt Lab과 Python 연동하기
 
 - Watsonx.ai studio Prompt Lab에서는 **코드 보기** 기능을 통해 로컬에서 바로 실행할 수 있도록 Python, Curl, Node.js 코드를 제공합니다.
 
