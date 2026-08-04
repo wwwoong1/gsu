@@ -1,3 +1,17 @@
+# 목차
+
+- [1. Watsonx.ai Studio 접속하기](#1-watsonxai-studio-접속하기)
+- [2. Project 생성](#2-project-생성)
+- [3. Prompt Lab](#prompt-lab)
+- [4. Prompt Lab 실습](#prompt-lab-실습)
+  - [대화형 프롬프트](#대화형-프롬프트)
+  - [구조화된 프롬프트](#구조화된-프롬프트)
+  - [자유 형식 프롬프트](#자유-형식-프롬프트)
+- [5. 프롬프트 저장하기](#프롬프트-저장하기)
+- [6. Prompt Lab과 Python 연동하기](#prompt-lab과-python-연동하기)
+
+---
+
 ## 1. Watsonx.ai Studio 접속하기
 <a href="https://cloud.ibm.com/" target="_blank"><b>Watsonx.ai Studio 접속하기</b></a>
 - 위 링크에 접속 후, 회원가입과 로그인을 진행합니다.
