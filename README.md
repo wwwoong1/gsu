@@ -10,8 +10,3 @@
 | **14:00 - 14:30** | 이론 | **3. Prompt Engineering 개념** | 프롬프트 개념, 주요 기법 및 추론 파라미터 이론 |
 | **14:40 - 15:20** | 실습 | **4. watsonx 세팅 및 prompt lab 실습** | **watsonx.ai 환경 세팅 & Prompt Lab**<br>- 플랫폼 접속, 프로젝트 생성<br>- API Key & Project ID 발급 및 Prompt Lab 기본 사용법<br>- Prompt Lab에서 개발한 에이전트 Python으로 불러오기 |
 | **15:30 - 17:00** | 실습 | **5. Python 기반 prompt Engineering 실습** | **Python 기반 실습**<br>- 기본 제공 파라미터 실습<br>- 각 단계별 자율 실습(생략 가능)<br>- Langchain + IBM Watsonx를 활용한 ToolCalling 실습
-
-## 현재 고려중인 ToolCalling 실습 목록
-- 지식 + 정보를 조합한 Websearch tool + wiki
-- 주식 정보를 조합한 yfinance + yfinance news tool
-- 날씨와 위치 기반 서비스의 조합 weather + googleplacestool -> langchain-google-community 라이브러리 설치 필요<br>(google places tool : 특정 지역 식당, 회사 위치, 영업시간, 리뷰 평점 등 조회 가능)
