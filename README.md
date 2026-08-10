@@ -1,7 +1,3 @@
-### 참고
-requirements_pre.txt는 안쓰는 라이브러리 삭제 전 버전이고,
-requirements.txt는 안쓰는 라이브러리 삭제된 버전입니다.
-아직 테스트가 다 끝나지 않아 requirements.txt가 오류가 날지 안날지는 확인이 안됐습니다.
 
 ## 강의 순서
 
