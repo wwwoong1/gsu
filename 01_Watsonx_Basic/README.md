@@ -1,5 +1,10 @@
 ## 📚 watsonx.ai Studio Prompt Lab 실습
 
+### Files
+- HandsOn.md : Watsonx.ai studio Prompt Lab 실습 가이드
+- HandsOn.ipynb : Prompt Lab - Python 연동 실습 가이드
+- knowledge : Prompt Lab Chat 실습을 위한 자료
+
 ### 🎯 실습 목표
 ```
 본 실습은 IBM watsonx.ai Studio의 Prompt Lab을 활용하여 생성형 AI 모델을 다루는 기본 방법을 학습하기 위해 진행됩니다.

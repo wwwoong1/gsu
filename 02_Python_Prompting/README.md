@@ -1,5 +1,8 @@
 ## 📚 Python Prompt Engineering 실습
 
+### Files
+- HandsOn.ipynb : Python Prompt Engineering 실습 가이드
+
 ### 🎯 실습 목표
 ```
 본 실습은 Python을 활용해 Watsonx LLM을 호출하고, Watsonx 내부 기능과 Langchain을 연계한 에이전트를 개발하는 실습입니다.
