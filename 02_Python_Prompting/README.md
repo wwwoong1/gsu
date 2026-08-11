@@ -12,12 +12,11 @@ Langchain 라이브러리를 통해 에이전트 개발이 어떻게 이뤄지�
 
 ### 🛠️ 주요 실습 내용
 
-1. IBM Watsonx SDK를 Python에서 사용
-  - watsonx의 파라미터 조정을 통한 응답 결과 확인
-2. Watsonx SDK와 langchain, OpenAI를 활용한 Prompt Engineering 실습
-  - Few-shot learning, CoT 등 다양한 Prompt 기법 실습
-  - Prompt Template 사용법 실습
-3. Langchain-ibm, ToolCalling을 활용한 에이전트 개발 실습
-  - LangChain IBM + Wikipedia + DDGS ToolCalling
-  - LangChain IBM + yfinance + yfinancenews ToolCalling
-  - LangChain IBM + Open Meteo + OpenStreetMap ToolCalling
+1. **IBM Watsonx SDK를 Python에서 사용**
+    - watsonx의 파라미터 조정을 통한 응답 결과 확인
+2. **Watsonx SDK와 langchain, OpenAI를 활용한 Prompt Engineering 실습**
+    - Prompt Template 사용법 실습
+3. **Langchain-ibm, ToolCalling을 활용한 에이전트 개발 실습**
+    - LangChain IBM + Wikipedia + DDGS ToolCalling
+    - LangChain IBM + yfinance + yfinancenews ToolCalling
+    - LangChain IBM + Open Meteo + OpenStreetMap ToolCalling
