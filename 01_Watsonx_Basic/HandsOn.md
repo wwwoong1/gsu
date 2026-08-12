@@ -2,13 +2,13 @@
 
 - [1. Watsonx.ai Studio 접속하기](#1-watsonxai-studio-접속하기)
 - [2. Project 생성](#2-project-생성)
-- [3. Prompt Lab](#prompt-lab)
-- [4. Prompt Lab 실습](#prompt-lab-실습)
+- [3. Prompt Lab](#3-prompt-lab)
+- [4. Prompt Lab 실습](#4-prompt-lab-실습)
   - [대화형 프롬프트](#대화형-프롬프트)
   - [구조화된 프롬프트](#구조화된-프롬프트)
   - [자유 형식 프롬프트](#자유-형식-프롬프트)
-- [5. 프롬프트 저장하기](#프롬프트-저장하기)
-- [6. Prompt Lab과 Python 연동하기](#prompt-lab과-python-연동하기)
+- [5. 프롬프트 저장하기](#5-프롬프트-저장하기)
+- [6. Prompt Lab과 Python 연동하기](#6-prompt-lab과-python-연동하기)
 
 ---
 
