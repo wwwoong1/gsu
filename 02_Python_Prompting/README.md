@@ -20,6 +20,6 @@ Langchain 라이브러리를 통해 에이전트 개발이 어떻게 이뤄지�
 2. **Watsonx SDK와 langchain, OpenAI를 활용한 Prompt Engineering 실습**
     - Prompt Template 사용법 실습
 3. **Langchain-ibm, ToolCalling을 활용한 에이전트 개발 실습**
-    - 검색 에이전트 : LangChain IBM + Wikipedia + DDGS ToolCalling
-    - 주식 에이전트 : LangChain IBM + yfinance + yfinancenews ToolCalling
-    - 날씨 에이전트 : LangChain IBM + Open Meteo + OpenStreetMap ToolCalling
+    - Youtube 검색 AI : Langchain IBM + Langchain Youtube Search ToolCalling
+    - 주식 및 뉴스 AI : LangChain IBM + yfinance + yfinancenews Custom ToolCalling
+    - 통합 검색 및 세부 정보 검색 에이전트: LangChain IBM + DuckDuckGoSearch + Wikipedia ToolCalling
