@@ -7,15 +7,15 @@
 
 ### 🎯 실습 목표
 ```
-본 실습은 IBM watsonx.ai Studio의 Prompt Lab을 활용하여 생성형 AI 모델을 다루는 기본 방법을 학습하기 위해 진행됩니다.
-웹 환경에서 프롬프트를 작성하고 테스트한 뒤, Python API를 통해 직접 연동하는 과정을 다룹니다.
+본 실습은 IBM watsonx.ai Studio의 Prompt Lab을 활용하여 생성형 AI 모델을 다루는 기본 방법을 학습하게 됩니다.
+Watsonx 환경에서 프롬프트를 작성하고 테스트한 뒤, Python API를 통해 직접 연동하는 과정을 다룹니다.
 ```
 ### 👥 실습 대상
 watsonx.ai 플랫폼과 Prompt Lab 환경에 처음 입문하시는 분
 
 LLM을 활용한 프롬프트 작성 및 파라미터 조정을 직접 실습해보고 싶은 분
 
-Prompt Lab에서 검증한 프롬프트를 API 방식으로 외부에 연동하는 방법을 알고 싶은 분
+Prompt Lab에서 검증한 프롬프트를 API 방식으로 직접 호출하는 방법을 알고 싶은 분
 
 ### 🛠️ 주요 실습 내용
 
