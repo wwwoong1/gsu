@@ -342,8 +342,7 @@ Q: 작업 A(2시간) 완료 후, 작업 B(3시간)와 C(4시간)가 동시에 �
   - 최대 토큰 : 300
 ```
 
-<a href="knowledge/HR_knowledge.txt"><h3>HR knowledge 다운로드</h3></a>
-
+### [HR knowledge 다운로드](./knowledge/HR_knowledge.txt)
 
 **사용자 입력**<br>
 ![chat prompt](./img/chat_prompt2.png)
