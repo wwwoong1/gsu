@@ -436,7 +436,7 @@ Q: 작업 A(2시간) 완료 후, 작업 B(3시간)와 C(4시간)가 동시에 �
 
 ![save prompt](./img/save_prompt3.png)
 
-- 이름과 설명 입력 후, 테스크는 **Classification**으로 선택합니다.
+- 이름과 설명 입력 후, 테스크는 **Generation**으로 선택합니다.
 - 설정이 모두 완료되었다면 우측 하단 **저장**을 클릭합니다.
 
 ## 6. Prompt Lab과 Python 연동하기
