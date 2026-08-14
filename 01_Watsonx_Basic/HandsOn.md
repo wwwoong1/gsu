@@ -496,6 +496,7 @@ Python 코드 구조
 ![on python](./img/on_python9.png)
 
 - 코드 창에서 **copy 아이콘**을 클릭합니다.
+- 여기서 복사한 코드는 이후 진행되는 python_connect.ipynb에서 사용됩니다.
 
 이 단계까지 완료했다면 Python 코드로 Prompt Lab을 사용할 준비가 완료되었습니다.
 아래 링크를 클릭해 Prompt Lab을 Python으로 실행해 보세요.
