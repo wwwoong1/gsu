@@ -3,7 +3,7 @@ python-dotenv==1.1.0
 ibm-cos-sdk==2.13.6
 ibm-cos-sdk-core==2.13.6
 ibm-cos-sdk-s3transfer==2.13.6
-ibm_watson_machine_learning==1.0.367
+ibm_watson_machine_learning
 ibm_watsonx_ai==1.6.0
 ipykernel==6.29.5
 ipython==9.3.0
