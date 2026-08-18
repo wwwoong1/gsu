@@ -4,9 +4,8 @@
 | 시간 | 구분 | 세션명 | 세부 내용 및 실습 단계 |
 | :---: | :---: | :--- | :--- |
 | **09:30 - 10:30** | 이론 | **1. 생성형 AI 소개** | 생성형 AI 개념, 등장배경 및 활용 사례 |
-| **10:40 - 11:30** | 이론 | **2. watsonx.ai 소개** | IBM watsonx |
+| **10:40 - 11:30** | 이론 | **2. Prompt Engineering 개념** | 프롬프트 개념, 주요 기법 이론 |
 | **11:30 - 13:00** | 휴식 | **점심시간** | 식사 및 휴식 |
-| **13:00 - 14:00** | 준비 | **실습 환경 준비** | 실습을 위한 사전 환경 세팅 |
-| **14:00 - 14:30** | 이론 | **3. Prompt Engineering 개념** | 프롬프트 개념, 주요 기법 이론 |
-| **14:40 - 15:20** | 실습 | **4. watsonx prompt lab 실습** | **Prompt Lab**<br>- 플랫폼 접속, 프로젝트 생성<br>- API Key & Project ID 발급 및 Prompt Lab 기본 사용법<br>- Prompt Lab에서 개발한 에이전트 Python으로 불러오기 |
-| **15:30 - 17:00** | 실습 | **5. Python 기반 prompt Engineering 실습** | **Python 기반 실습**<br>- 기본 제공 파라미터 실습<br>- Langchain + IBM Watsonx를 활용한 ToolCalling 실습
+| **13:00 - 14:00** | 준비 | **3. 실습 환경 준비** | 실습을 위한 사전 환경 세팅 |
+| **14:00 - 14:50** | 이론 | **4. Watsonx Prompt Lab 실습** | 플랫폼 접속, 프로젝트 생성 및 기본 사용법 |
+| **15:00 - 17:00** | 실습 | **5. Python 기반 prompt Engineering 실습** | **Python 기반 실습**<br>- IBM SDK 기본 제공 파라미터 실습<br>- Langchain + IBM Watsonx를 활용한 ToolCalling 실습 |
