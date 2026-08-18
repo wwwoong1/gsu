@@ -350,6 +350,7 @@ Output:
 - 다음으로 Watsonx Prompt Lab의 대화형 프롬프트로 이동합니다.
 
 - 아래와 같이 모델 모수를 설정합니다.
+![chat_prompt](./img/chat_prompt1.png)
 
 ```
   파라미터 설정 (명시되지 않은 파라미터는 기본 값 유지)
